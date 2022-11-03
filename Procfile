@@ -1,0 +1,1 @@
+web gunicorn light_code_crm.wsgi:apllication --log-file -
