@@ -1,1 +1,1 @@
-web gunicorn light_code_crm.wsgi:apllication --log-file -
+web: gunicorn light_code_crm.wsgi --log-file -
